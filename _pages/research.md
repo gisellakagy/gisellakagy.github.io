@@ -14,10 +14,10 @@ author_profile: true
 
 <p><strong>Gender Differences in Informal Labor Market Resilience</strong> (with Morgan Hardy, Erin Litzow and Jamie McCasland). Accepted at <em> World Bank Economic Review </em>
 <br>
-<small>[ <a href="#/" onclick="visib('genddiff')">Abstract</a> | <a href="">Recent Draft</a> ] </small>
+<small>[ <a href="#/" onclick="visib('genddiff')">Abstract</a> | <a href="/files/WBER_GenderResilience_RevisedManuscript_2022_0923.pdf">Recent Draft</a> ] </small>
 <p>
 
-<div id="genddiff" style="display: none; text-align: justify; line-height: 1.2"><small> </small><br><br></div>
+<div id="genddiff" style="display: none; text-align: justify; line-height: 1.2"><small> This paper reports on the universe of garment-making firm owners in a Ghanaian district capital during the COVID-19 crisis. By July 2020, 80% of both male- and female-owned firms were operational. Using pre-pandemic data, we document that selection into persistent closure differs by gender. Consistent with a "cleansing effect" of recessions and highlighting the presence of marginal female entrepreneurs, female-owned firms that remain closed past the spring lockdown are negatively selected on pre-pandemic sales. The pre-pandemic sales distributions of female survivors and non-survivors are significantly different from each other. Female owners of non-operational firms exit to non-employment and experience large decreases in overall earnings. Persistently-closed male-owned firms are not selected on pre-pandemic firm characteristics. Instead, their owners are 36 percentage points more likely to have another income generating activity prior to the crisis and fully compensate for revenue losses in their core businesses with these alternative income generating activities.</small><br><br></div>
 
 
 <p><strong>Gotta’ Have Money to Make Money? Bargaining Behavior and Financial Need of Microentrepreneurs</strong> (with Morgan Hardy and Lena Song) <em> American Economic Review: Insights. </em> January 2022; 4.1: 1 – 17 
@@ -67,6 +67,14 @@ author_profile: true
 <hr>
 
 
+<p><strong> The Enterprise Gender Data Gap: Evidence From Sub-Saharan Africa </strong> (with Morgan Hardy and Nusrat Jimi).
+<br>
+<small>[ <a href="#/" onclick="visib('datagap')">Abstract</a> | <a href="/files/Data_Gaps_Hardy_Kagy_Jimi.pdf">Recent Draft</a> ] </small>
+<p>
+
+<div id="datagap" style="display: none; text-align: justify; line-height: 1.2"><small> Using data from 43 countries in Sub-Saharan Africa, we document large variations in women- owned enterprise representation and estimates of gender gaps in enterprise performance between commonly available data sources. We provide empirical evidence that these differences are driven by variations in gender-blind sampling protocols. Women-owned enterprises are less likely to meet the sampling criteria for most widely available enterprise data and those that do are more positively selected on performance, relative to male-owned enterprises. We document differences in implied policy and research priorities; sources with higher women- owned enterprise representation point toward issues of market access, over more commonly studied barriers.</small><br><br></div>
+
+
 <p><strong> The Impact of Firm Downsizing on Workers: Evidence from Ethiopia’s Ready-Made Garment Industry </strong> (with Morgan Hardy, Eyoual Demeke, Marc Witte and Christian Johannes Meyer). <em> Under Review </em>
 <br>
 <small>[ <a href="#/" onclick="visib('downsize')">Abstract</a> | <a href="">Recent Draft</a> ] </small>
@@ -76,12 +84,6 @@ author_profile: true
 <p><strong> Early Childhood Health and Family Planning: Long-term and Intergenerational Effects on Human Capital </strong> (with Tania Barham, Jena Hamadani and Brach Champion).
 <br>
 <small>[ <a href="#/" onclick="visib('childhealth')">Abstract</a> | <a href="">Recent Draft</a> ] </small>
-<p>
-
-
-<p><strong> The Enterprise Gender Data Gap: Evidence From Sub-Saharan Africa </strong> (with Morgan Hardy and Nusrat Jimi).
-<br>
-<small>[ <a href="#/" onclick="visib('datagap')">Abstract</a> | <a href="">Recent Draft</a> ] </small>
 <p>
 
 
