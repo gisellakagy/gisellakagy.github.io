@@ -77,14 +77,32 @@ author_profile: true
 
 <p><strong> The Impact of Firm Downsizing on Workers: Evidence from Ethiopia’s Ready-Made Garment Industry </strong> (with Morgan Hardy, Eyoual Demeke, Marc Witte and Christian Johannes Meyer). <em> Under Review </em>
 <br>
-<small>[ <a href="#/" onclick="visib('downsize')">Abstract</a> | <a href="">Recent Draft</a> ] </small>
+<small>[ <a href="#/" onclick="visib('downsize')">Abstract</a> | <a href="/files/FirmDownsizing.pdf">Recent Draft</a> ] </small>
 <p>
+
+<div id="downsize" style="display: none; text-align: justify; line-height: 1.2"><small> We analyze matched employee-employer data from Ethiopia’s largest special economic zone during a period of downsizing pressure from the COVID-19 world import demand shock. We observe substantial job displacement during the shock peak, particularly for new hires. These largely female and rural- to-urban migrants persistently “fall off the employment ladder,” remaining unemployed both within and outside the zone even after employers have recov- ered from the shock. We observe high levels of urban-centered food insecurity and depression symptoms during the crisis peak, regardless of employment status. Our findings highlight the importance of social protection policies within export-oriented development strategies.</small><br><br></div>
 
 
 <p><strong> Early Childhood Health and Family Planning: Long-term and Intergenerational Effects on Human Capital </strong> (with Tania Barham, Jena Hamadani and Brach Champion).
 <br>
-<small>[ <a href="#/" onclick="visib('childhealth')">Abstract</a> | <a href="">Recent Draft</a> ] </small>
+<small>[ <a href="#/" onclick="visib('childhealth')">Abstract</a> ] </small>
 <p>
+
+<div id="childhealth" style="display: none; text-align: justify; line-height: 1.2"><small> 
+This paper examines the effects of common preventive health interventions experienced in early childhood, 
+such as vaccination and family planning, on human capital in adulthood and intergenerational
+effects on the offspring of females who were eligible for the interventions as children. Our analysis
+exploits a quasi-randomly placed mother and child health and family planning program in Bangladesh,
+in conjunction with individual level panel data spanning from 1974 – 2012, to estimate impacts on 
+multiple measures of human capital for two generations. We demonstrate effects on height and education,
+but not cognition, in adulthood for those who eligible for the program as children. Individuals with
+the lowest health endowment at birth, proxied for with mother’s height, experience the largest effects
+highlighting that while this preventative health program was not targeted towards those where gains
+from health improvements were potentially the largest, it did reduce health inequities. Daughters,
+but not sons, in the next generation experienced improved height, reductions in stunting, and better
+cognition. The results highlight the importance of common early childhood public health investments
+in improving human capital in two generations and the role that one’s initial health endowment plays
+in governing the effects.</small><br><br></div>
 
 
 <h1 id="-in-progress-">
