@@ -15,7 +15,7 @@ Click for my <a href="/files/kagy_cv_academic.pdf">CV</a> and <a href="https://s
 
 <strong>Contact Information:</strong>
 <br>
-Email: gikagy@vassar.edu
+Email: gikagy[at]vassar.edu
 <br>
 Address: Department of Economics
 <br>
