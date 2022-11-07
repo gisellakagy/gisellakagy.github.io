@@ -12,6 +12,14 @@ author_profile: true
 </h1>
 <hr>
 
+<p><strong>Gender Differences in Informal Labor Market Resilience</strong> (with Morgan Hardy, Erin Litzow and Jamie McCasland). Accepted at <em> World Bank Economic Review <\em>
+<br>
+<small>[ <a href="#/" onclick="visib('genddiff')">Abstract</a> | <a href="">Recent Draft</a> ] </small>
+<p>
+
+<div id="genddiff" style="display: none; text-align: justify; line-height: 1.2"><small> </small><br><br></div>
+
+
 <p><strong>Gotta’ Have Money to Make Money? Bargaining Behavior and Financial Need of Microentrepreneurs</strong> (with Morgan Hardy and Lena Song) <em> American Economic Review: Insights. </em> January 2022; 4.1: 1 – 17 
 <br>
 <small>[ <a href="#/" onclick="visib('gotta')">Abstract</a> | <a href="https://www.aeaweb.org/articles?id=10.1257/aeri.20200723">Paper</a> | <a href="https://voxdev.org/topic/firms-trade/how-financial-need-affects-pricing-evidence-small-businesses-ghana">VoxDev</a>] </small>
@@ -20,7 +28,7 @@ author_profile: true
 <div id="gotta" style="display: none; text-align: justify; line-height: 1.2"><small> Bargaining over real prices with microenterprise owners in Ghana, we show that sellers with less per capita household liquidity agree to lower sale prices. This relationship is robust across firms and within firms over time, even after controlling for a plethora of time-varying observables. A computerized bargaining experiment, with randomized initial payout sizes, corroborates the real-bargaining findings. This pattern can be explained by an application of classical bargaining theory that includes endowments and utility functions with decreasing absolute risk aversion. The potential poverty-multiplying implications of pricing behavior is a key frontier in understanding barriers to the profitability of microenterprises.</small><br><br></div>
 
 
-<p><strong>Thirty-five years later: Long-term effects of the Matlab Maternal and Child Health/Family Planning Program on older women’s well-being</strong> (with Tania Barham, Andrew Foster, Chris Jochem, Jane Menken, Abdur Razzaque, Elisabeth Root, and Patrick Turner) <em> (Proceedings of the National Academy of Sciences.) </em> 2021; 118, no. 28
+<p><strong>Thirty-five years later: Long-term effects of the Matlab Maternal and Child Health/Family Planning Program on older women’s well-being</strong> (with Tania Barham, Andrew Foster, Chris Jochem, Jane Menken, Abdur Razzaque, Elisabeth Root, and Patrick Turner) <em> Proceedings of the National Academy of Sciences. </em> 2021; 118, no. 28
 <br>
 <small>[ <a href="#/" onclick="visib('thirtyfive')">Abstract</a> | <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2101160118">Paper</a>] </small>
 <p>
@@ -28,7 +36,7 @@ author_profile: true
 <div id="thirtyfive" style="display: none; text-align: justify; line-height: 1.2"><small>Few studies have addressed links between family planning programs and long-term benefits for women’s health and economic outcomes, especially in societies where old-age support and women’s status are tied to childbearing and where smaller families may carry negative consequences for women. We analyzed the maternal and child health/family planning (MCH/FP) program, a highly effective intervention introduced in the rural Matlab subdistrict of Bangladesh in 1977 with a subsequent 12-y differential in service access. We found significant differences in lifetime contraceptive behavior and completed fertility among women born 1938−1973. We found few effects on later health or economic outcomes except for an association of MCH/FP with poorer overall health and poorer metabolic health among women born 1950−1961.</small><br><br></div>
 
 
-<p><strong>The market-reach of pandemics: Evidence from female workers in Ethiopia’s ready-made garment industry</strong> (with with Christian Johannes Meyer, Morgan Hardy, Marc Witte, and Eyoual Demeke). <em> World Development.<\em> January 2021;137:105179.
+<p><strong>The market-reach of pandemics: Evidence from female workers in Ethiopia’s ready-made garment industry</strong> (with with Christian Johannes Meyer, Morgan Hardy, Marc Witte, and Eyoual Demeke). <em> World Development.</em> January 2021;137:105179.
 <br>
 <small>[ <a href="#/" onclick="visib('mktreach')">Abstract</a> | <a href="https://www.sciencedirect.com/science/article/pii/S0305750X20303065?casa_token=0jPhTyunN2sAAAAA:YY-BeDuXqSG6xnZ1qvN1g5XUniUIrxJUrtxqVkh9xB2XFzt9Uo10pKufsRREHTSp0Do0kH8Rnhk">Paper</a> | <a href="https://medium.com/center-for-effective-global-action/whats-the-market-reach-of-covid-19-evidence-from-ethiopia-s-ready-made-garment-industry-5ea5d9dd0ad2">CEGA Blog</a> | <a href="https://ww2.gatesfoundation.org/Ideas/Articles/coronavirus-economic-impact-women">The Optimist Newsletter</a>] </small>
 <p>
@@ -58,15 +66,8 @@ author_profile: true
 </h1>
 <hr>
 
-<p><strong>Gender Differences in Informal Labor Market Resilience</strong> (with Morgan Hardy, Erin Litzow and Jamie McCasland). Revisions Requested at <em> World Bank Economic Review <\em>
-<br>
-<small>[ <a href="#/" onclick="visib('genddiff')">Abstract</a> | <a href="">Recent Draft</a> ] </small>
-<p>
 
-<div id="genddiff" style="display: none; text-align: justify; line-height: 1.2"><small> The UN Declaration on the Rights of Indigenous People promotes self-governance as a matter of justice rather than economics. How will self-governance affect the incomes of indigenous people? To gain insight, we compare long-run income growth on American Indian reservations with and without federal oversight through the 1934 Indian Reorganization Act. Reservations with more autonomy had 12–15 percent higher income per capita in 2016, even conditional on 1930s income. However, these more autonomous reservations also experienced wider income variance with more downside risk. The findings are consistent with theory emphasizing the development trade-offs between local and centralized governance.</small><br><br></div>
-
-
-<p><strong> The Impact of Firm Downsizing on Workers: Evidence from Ethiopia’s Ready-Made Garment Industry </strong> (with Morgan Hardy, Eyoual Demeke, Marc Witte and Christian Johannes Meyer). <em> Under Review <\em>
+<p><strong> The Impact of Firm Downsizing on Workers: Evidence from Ethiopia’s Ready-Made Garment Industry </strong> (with Morgan Hardy, Eyoual Demeke, Marc Witte and Christian Johannes Meyer). <em> Under Review </em>
 <br>
 <small>[ <a href="#/" onclick="visib('downsize')">Abstract</a> | <a href="">Recent Draft</a> ] </small>
 <p>
