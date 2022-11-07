@@ -12,7 +12,7 @@ author_profile: true
 </h1>
 <hr>
 
-<p><strong>Gender Differences in Informal Labor Market Resilience</strong> (with Morgan Hardy, Erin Litzow and Jamie McCasland). Accepted at <em> World Bank Economic Review <\em>
+<p><strong>Gender Differences in Informal Labor Market Resilience</strong> (with Morgan Hardy, Erin Litzow and Jamie McCasland). Accepted at <em> World Bank Economic Review </em>
 <br>
 <small>[ <a href="#/" onclick="visib('genddiff')">Abstract</a> | <a href="">Recent Draft</a> ] </small>
 <p>

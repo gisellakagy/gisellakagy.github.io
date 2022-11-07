@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gisella Kagy
+title: "Gisella Kagy"
 excerpt: "Home"
 author_profile: true
 redirect_from: 
