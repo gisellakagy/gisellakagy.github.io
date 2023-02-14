@@ -12,7 +12,7 @@ author_profile: true
 </h1>
 <hr>
 
-<p><strong>Gender Differences in Informal Labor Market Resilience</strong> (with Morgan Hardy, Erin Litzow and Jamie McCasland). <em> World Bank Economic Review </em> 2023. 37(1), 112-126.
+<p><strong>Gender Differences in Informal Labor Market Resilience</strong> (with Morgan Hardy, Erin Litzow and Jamie McCasland). <em> World Bank Economic Review </em> 2023; 37(1), 112-126.
 <br>
 <small>[ <a href="#/" onclick="visib('genddiff')">Abstract</a> | <a href="/files/WBER_GenderResilience_RevisedManuscript_2022_0923.pdf">Recent Draft</a> ] </small>
 <p>
