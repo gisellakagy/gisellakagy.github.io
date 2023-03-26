@@ -91,7 +91,7 @@ author_profile: true
 <div id="childhealth" style="display: none; text-align: justify; line-height: 1.2"><small> 
 This paper examines the effect of improving the early childhood health environment on human capital in adulthood and on the next generation. We exploit a quasi-randomly placed mother and child health and family planning program in Bangladesh using individual level panel data linked across three generations. Individuals who were eligible during childhood are taller with less short-stature, and men have higher grades attained. Effects are concentrated among those with the lowest health endowment at birth, indicating a reduction in inequality. In the next generation, daughters of eligible women are taller, less stunted, and have better cognition. Findings suggest ignoring intergenerational effects leads to underestimating the benefits of programs that improve early childhood health and and misses their effects on inequalities.</small><br><br></div>
 
-<p><strong>Economic Consequences of Childhood Exposure to Urban Environmental Toxins</strong> (with Gisella Kagy). 2023.
+<p><strong>Economic Consequences of Childhood Exposure to Urban Environmental Toxins</strong> (with Dustin Frye). 2023.
 <br>
 <small>[ <a href="#/" onclick="visib('lead')">Abstract</a>]  | <a href="https://dustinfrye.github.io/files/FryeKagy_LeadExposure.pdf">Recent Draft</a>] </small>
 <p>
