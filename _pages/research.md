@@ -116,12 +116,6 @@ This paper examines the effect of improving the early childhood health environme
 <br>
 <p>
 
-
-<p><strong>Economic Consequences of Childhood Exposure to Urban Environmental Toxins</strong> (with Dustin Frye)
-<br>
-<p>
-
-
 <p><strong>The Devil is in the Pre-Tales: A Closer Look at WOmen’s First Months in Industrial Work</strong> (with Morgan Hardy and Christian Johannes Meyer)
 <br>
 <p>
