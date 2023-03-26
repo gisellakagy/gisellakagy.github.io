@@ -91,6 +91,13 @@ author_profile: true
 <div id="childhealth" style="display: none; text-align: justify; line-height: 1.2"><small> 
 This paper examines the effect of improving the early childhood health environment on human capital in adulthood and on the next generation. We exploit a quasi-randomly placed mother and child health and family planning program in Bangladesh using individual level panel data linked across three generations. Individuals who were eligible during childhood are taller with less short-stature, and men have higher grades attained. Effects are concentrated among those with the lowest health endowment at birth, indicating a reduction in inequality. In the next generation, daughters of eligible women are taller, less stunted, and have better cognition. Findings suggest ignoring intergenerational effects leads to underestimating the benefits of programs that improve early childhood health and and misses their effects on inequalities.</small><br><br></div>
 
+<p><strong>Economic Consequences of Childhood Exposure to Urban Environmental Toxins</strong> (with Gisella Kagy). 2023.
+<br>
+<small>[ <a href="#/" onclick="visib('lead')">Abstract</a>]  | <a href="https://dustinfrye.github.io/files/FryeKagy_LeadExposure.pdf">Recent Draft</a>] </small>
+<p>
+
+<div id="lead" style="display: none; text-align: justify; line-height: 1.2"><small>During the late nineteenth century, half of all municipalities installed lead water pipes, exposing millions of people to harmful levels of lead consumption. This paper explores the long-term, and intergenerational, effects of waterborne lead exposure on men's labor market outcomes using linked samples drawn from the full count censuses. For identification, we leverage variation in lead pipe adoption across cities and differences in the chemical properties of a town's water supply, which interact to influence the extent of lead leaching. Results show adult men with higher levels of waterborne lead exposure as children have lower incomes, worse occupations, and lower levels of completed education compared to adult men who had lower levels of waterborne lead exposure as children. Men who are exposed to higher levels of waterborne lead have a significantly decreased probability of improving their income rank relative to their fathers, which is consistent with lead exposure behaving like a negative place-based shock that constrains upward mobility.</small><br><br></div>
+
 
 <h1 id="-in-progress-">
 	<center> Research in Progress </center>
