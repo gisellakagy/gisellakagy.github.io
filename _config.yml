@@ -81,13 +81,13 @@ google_analytics         : #"UA-206601522-1"
 # Site Author
 author:
   name             : "Gisella Kagy"
-  avatar           : "KagyHeadShot.jpg"
-  bio              : "Assistant Professor of Economics"
+  avatar           : "Gisella-Kagy_2023_HiRes_Cropped.jpg"
+  bio              : "Assistant Professor"
   location         : 
-  employer         : "Vassar College"
+  employer         : "University of Wisconsin - Madison"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=V_NDu0YAAAAJ&hl=en&oi=ao"
-  email            : "gikagy@vassar.edu"
+  email            : "gkagy@wisc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

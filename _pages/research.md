@@ -116,7 +116,7 @@ This paper examines the effect of improving the early childhood health environme
 <br>
 <p>
 
-<p><strong>The Devil is in the Pre-Tales: A Closer Look at WOmen’s First Months in Industrial Work</strong> (with Morgan Hardy and Christian Johannes Meyer)
+<p><strong>The Devil is in the Pre-Tales: A Closer Look at Women’s First Months in Industrial Work</strong> (with Morgan Hardy and Christian Johannes Meyer)
 <br>
 <p>
 

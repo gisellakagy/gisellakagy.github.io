@@ -8,21 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at Vassar College. My research is in development economist with a focus on gender, employment in low-income countries, and the impact of early childhood and in-utero health shocks on later life health and human capital accumulation. I have projects in Bangladesh, Ethiopia, and Ghana that use a variety of experimental and applied methods with a particular focus on designing surveys and collecting new data. My work has been published in top general interest and development economics field journals. I received my PhD in economics from the University of Colorado Boulder in 2015.
+I am an Assistant Professor in the School of Human Ecology at the University of Wisconsin - Madison. My research is in development economist with a focus on gender, employment in low-income countries, and the impact of early childhood and in-utero health shocks on later life health and human capital accumulation. I have projects in Bangladesh, Ethiopia, and Ghana that use a variety of experimental and applied methods with a particular focus on designing surveys and collecting new data. My work has been published in top general interest and development economics field journals. I received my PhD in economics from the University of Colorado Boulder in 2015.
 
-Click for my <a href="/files/kagy_cv_academic_Jan15_2023.pdf">CV</a> and <a href="https://scholar.google.com/citations?user=V_NDu0YAAAAJ&hl=en&oi=ao">Google Scholar</a> page.
+Click for my <a href="/files/kagy_cv_academic.pdf">CV</a> and <a href="https://scholar.google.com/citations?user=V_NDu0YAAAAJ&hl=en&oi=ao">Google Scholar</a> page.
 
 
 <strong>Contact Information:</strong>
 <br>
-Email: gikagy[at]vassar.edu
+Email: gkagy[at]wisc.edu
 <br>
-Address: Department of Economics
+Address: School of Human Ecology
 <br>
-Vassar College
+University of Wisconsin - Madison
 <br>
-124 Raymond Ave, Box 67
+1300 Linden Drive
 <br>
-Poughkeepsie, NY  12604
+Madison, WI  53706
 
 
