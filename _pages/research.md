@@ -12,6 +12,14 @@ author_profile: true
 </h1>
 <hr>
 
+<p><strong> The Impact of Firm Downsizing on Workers: Evidence from Ethiopia’s Ready-Made Garment Industry </strong> (with Morgan Hardy, Eyoual Demeke, Marc Witte and Christian Johannes Meyer). <em> Forthcoming at World Development </em>
+<br>
+<small>[ <a href="#/" onclick="visib('downsize')">Abstract</a> | <a href="/files/FirmDownsizing.pdf">Recent Draft</a> ] </small>
+<p>
+
+<div id="downsize" style="display: none; text-align: justify; line-height: 1.2"><small> We analyze matched employee-employer data from Ethiopia’s largest special economic zone during a period of downsizing pressure from the COVID-19 world import demand shock. We observe substantial job displacement during the shock peak, particularly for new hires. These largely female and rural- to-urban migrants persistently “fall off the employment ladder,” remaining unemployed both within and outside the zone even after employers have recov- ered from the shock. We observe high levels of urban-centered food insecurity and depression symptoms during the crisis peak, regardless of employment status. Our findings highlight the importance of social protection policies within export-oriented development strategies.</small><br><br></div>
+
+
 <p><strong>Gender Differences in Informal Labor Market Resilience</strong> (with Morgan Hardy, Erin Litzow and Jamie McCasland). <em> World Bank Economic Review </em> 2023; 37(1), 112-126.
 <br>
 <small>[ <a href="#/" onclick="visib('genddiff')">Abstract</a> | <a href="/files/WBER_GenderResilience_RevisedManuscript_2022_0923.pdf">Recent Draft</a> ] </small>
@@ -75,21 +83,13 @@ author_profile: true
 <div id="datagap" style="display: none; text-align: justify; line-height: 1.2"><small> Using data from 43 countries in Sub-Saharan Africa, we document large variations in women- owned enterprise representation and estimates of gender gaps in enterprise performance between commonly available data sources. We provide empirical evidence that these differences are driven by variations in gender-blind sampling protocols. Women-owned enterprises are less likely to meet the sampling criteria for most widely available enterprise data and those that do are more positively selected on performance, relative to male-owned enterprises. We document differences in implied policy and research priorities; sources with higher women- owned enterprise representation point toward issues of market access, over more commonly studied barriers.</small><br><br></div>
 
 
-<p><strong> The Impact of Firm Downsizing on Workers: Evidence from Ethiopia’s Ready-Made Garment Industry </strong> (with Morgan Hardy, Eyoual Demeke, Marc Witte and Christian Johannes Meyer). <em> Under Review </em>
-<br>
-<small>[ <a href="#/" onclick="visib('downsize')">Abstract</a> | <a href="/files/FirmDownsizing.pdf">Recent Draft</a> ] </small>
-<p>
-
-<div id="downsize" style="display: none; text-align: justify; line-height: 1.2"><small> We analyze matched employee-employer data from Ethiopia’s largest special economic zone during a period of downsizing pressure from the COVID-19 world import demand shock. We observe substantial job displacement during the shock peak, particularly for new hires. These largely female and rural- to-urban migrants persistently “fall off the employment ladder,” remaining unemployed both within and outside the zone even after employers have recov- ered from the shock. We observe high levels of urban-centered food insecurity and depression symptoms during the crisis peak, regardless of employment status. Our findings highlight the importance of social protection policies within export-oriented development strategies.</small><br><br></div>
-
-
 <p><strong> Improving the Early Childhood Environment: Multi-Generational Effects on Human Capital </strong> (with Tania Barham, Jena Hamadani, and Brach Champion).
 <br>
 <small>[ <a href="#/" onclick="visib('childhealth')">Abstract</a> ]  | <a href="/files/MHSS2_Human_Capital_Paper.pdf">Recent Draft</a> ] </small>
 <p>
 
 <div id="childhealth" style="display: none; text-align: justify; line-height: 1.2"><small> 
-This paper examines the effect of improving the early childhood health environment on human capital in adulthood and on the next generation. We exploit a quasi-randomly placed mother and child health and family planning program in Bangladesh using individual level panel data linked across three generations. Individuals who were eligible during childhood are taller with less short-stature, and men have higher grades attained. Effects are concentrated among those with the lowest health endowment at birth, indicating a reduction in inequality. In the next generation, daughters of eligible women are taller, less stunted, and have better cognition. Findings suggest ignoring intergenerational effects leads to underestimating the benefits of programs that improve early childhood health and and misses their effects on inequalities.</small><br><br></div>
+This paper examines the long-term and intergenerational effects of improving the early childhood health environment on human capital in Bangladesh. In adulthood, children eligible for health promoting interventions exhibit increased height and reduced short stature, while males achieve higher levels of educational attainment. These finding are concentrated among individuals with the lowest pre-program health endowment, reducing inequality in human capital across generations, and underscoring the program’s distributional implications. Intergenerational effects reveal daughters experienced increased height, reduced stunting, and improved cognitive outcomes. The findings suggest that failing to consider distributional and intergenerational effects of programs could lead to underinvestment in children.</small><br><br></div>
 
 <p><strong>Economic Consequences of Childhood Exposure to Urban Environmental Toxins</strong> (with Dustin Frye). 2023.
 <br>
